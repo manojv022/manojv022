@@ -33,12 +33,10 @@ Here are some ideas to get you started:
 
 
 ### Tools:
- | Linux | AWS  | Git | Docker | Kubernetes | Terraform | Ansible | Jenkins
-|----|------|----------|----------|----------|-----|-----|-----|
+| Linux | Ubuntu | 
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
-
-
-<img src="![image](https://github.com/user-attachments/assets/a34ff866-af5b-40a3-826c-8ecef96c2d2e)" width="100" height="100"/>| 
 
 
 
