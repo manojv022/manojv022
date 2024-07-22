@@ -30,3 +30,15 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+### Tools:
+ | Linux | AWS  | Git | Docker | Kubernetes | Terraform | Ansible | Jenkins
+|----|------|----------|----------|----------|-----|-----|-----|
+<img src="![image](https://github.com/user-attachments/assets/a34ff866-af5b-40a3-826c-8ecef96c2d2e)" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+
+
+<img src
+ title="Solidity" alt="Solidity" width="55" height="55"/>| 
+
+
