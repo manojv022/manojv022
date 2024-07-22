@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 ### Tools:
  | Linux | AWS  | Git | Docker | Kubernetes | Terraform | Ansible | Jenkins
 |----|------|----------|----------|----------|-----|-----|-----|
+
+
+
 <img src="![image](https://github.com/user-attachments/assets/a34ff866-af5b-40a3-826c-8ecef96c2d2e)" width="100" height="100"/>| 
 
 
