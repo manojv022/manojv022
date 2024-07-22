@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
 ### Tools:
 | Linux | Ubuntu | Git | Docker |
 |----------|----------|----------|----------|
