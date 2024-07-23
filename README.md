@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔍  Lets Explore DevOps with ease.
+
 <!--
 **manojv022\Manojv022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
