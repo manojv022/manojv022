@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+# $${\color{green} \textbf{Hi there 👋}}$$
 
 - 🔍  Lets Explore DevOps with ease.
 
