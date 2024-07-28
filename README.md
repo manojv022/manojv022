@@ -70,6 +70,9 @@ Here are some ideas to get you started:
 
 ![pv](https://pageview.vercel.app/?github_user=rafaelmdcarneiro)
 
+</picture>
+
+![pv](https://pageview.vercel.app/?github_user=manojv022)
 
 ![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
