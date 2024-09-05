@@ -72,7 +72,13 @@ Here are some ideas to get you started:
 
 ![pv](https://pageview.vercel.app/?github_user=manojv022)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojv022&show_icons=true&locale=en&layout=compact" alt="manojv022" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojv022&show_icons=true&locale=en" alt="manojv022" /></p>
+
 ![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
