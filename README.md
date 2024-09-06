@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ![pv](https://pageview.vercel.app/?github_user=manojv022)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojv022&show_icons=true&locale=en&layout=compact" alt="manojv022" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojv022&show_icons=true&locale=en&layout=compact" alt="manojv022" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojv022&show_icons=true&locale=en" alt="manojv022" /></p>
 
