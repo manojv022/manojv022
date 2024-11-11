@@ -2,7 +2,8 @@
 
 # $${\color{blue} \textbf{Hi there 👋}}$$
 
-- 🔍  Lets Explore DevOps with ease.
+- 🔍  Lets Explore DevOps with ease <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+
 
 <!--
 **manojv022\Manojv022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
